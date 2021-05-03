@@ -1,6 +1,6 @@
-﻿using ParkingRight.Infrastructure;
+﻿using ParkingRight.Domain.ParkingRightAggregate;
 
-namespace ParkingRight.Domain.ParkingRightAggregate
+namespace ParkingRight.Infrastructure
 {
     public class ParkingRightRepository : Repository<ParkRight>, IParkingRightRepository
     {

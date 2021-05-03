@@ -1,4 +1,5 @@
 ﻿using ParkingRight.Domain.ParkingRightAggregate;
+using ParkingRight.Infrastructure;
 using System;
 using System.Threading;
 using System.Threading.Tasks;

@@ -1,5 +1,4 @@
 ﻿using ParkingRight.Domain.Common;
-using ParkingRight.Infrastructure.Models;
 using System;
 using System.ComponentModel.DataAnnotations;
 

@@ -1,4 +1,4 @@
-﻿namespace ParkingRight.Infrastructure.Models
+﻿namespace ParkingRight.Domain.Common
 {
     /// <summary>
     /// Marker Interface for Aggregate Roots

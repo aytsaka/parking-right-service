@@ -22,7 +22,7 @@ This application provides one REST Api endpoints to register a parking right via
 ## High level design
 - ParkingRight.Api - Provides an endpoint to register a parking right.
 - ParkingRight.Domain - Keeps domain entities which is developed with DDD pattern.
-- ParkingRight.Infrastructure - Infrastructure implementation used by domain layer.
+- ParkingRight.Infrastructure - Repository implementation, infrastructure implementations used by application layer.
 
 ## Sources
 - https://docs.microsoft.com/en-us/dotnet/architecture/microservices/

@@ -1,7 +1,6 @@
-﻿using ParkingRight.Infrastructure.Models;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 
-namespace ParkingRight.Infrastructure
+namespace ParkingRight.Domain.Common
 {
     public interface IRepository<TEntity> where TEntity : IAggregateRoot
     {

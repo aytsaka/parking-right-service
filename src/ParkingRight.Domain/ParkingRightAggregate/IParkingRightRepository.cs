@@ -1,4 +1,4 @@
-﻿using ParkingRight.Infrastructure;
+﻿using ParkingRight.Domain.Common;
 
 namespace ParkingRight.Domain.ParkingRightAggregate
 {

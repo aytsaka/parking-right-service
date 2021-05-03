@@ -5,7 +5,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using ParkingRight.Domain.Common;
-using ParkingRight.Domain.ParkingRightAggregate;
+using ParkingRight.Infrastructure;
 using System;
 using System.IO;
 using System.Reflection;

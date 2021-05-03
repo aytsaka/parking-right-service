@@ -1,7 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using ParkingRight.Domain.ParkingRightAggregate;
 using System.Reflection;
 
-namespace ParkingRight.Domain.ParkingRightAggregate
+namespace ParkingRight.Infrastructure
 {
     public class ParkingRightDbContext : DbContext
     {

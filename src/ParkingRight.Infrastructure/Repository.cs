@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ParkingRight.Infrastructure.Models;
+using ParkingRight.Domain.Common;
 using System.Threading.Tasks;
 
 namespace ParkingRight.Infrastructure
